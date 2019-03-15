@@ -1,0 +1,7 @@
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\bin\Debug\VehicleTransports.exe.config
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\bin\Debug\VehicleTransports.exe
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\bin\Debug\VehicleTransports.pdb
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\obj\Debug\VehicleTransports.csprojAssemblyReference.cache
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\obj\Debug\VehicleTransports.csproj.CoreCompileInputs.cache
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\obj\Debug\VehicleTransports.exe
+C:\Users\absorbeur\source\repos\VehicleTransports\VehicleTransports\obj\Debug\VehicleTransports.pdb
